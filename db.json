@@ -1,0 +1,38 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "name": "Quang ngu",
+      "email": "quangabc@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Dung0",
+      "email": "Dung0@gmail.com"
+    },
+    {
+      "name": "Quang ngơ",
+      "id": 4
+    }
+  ],
+  "student": [
+    {
+      "id": 2,
+      "student_name": "Dung1",
+      "email": "Dung1@gmail.com",
+      "address": "Hà Nội2",
+      "phone": "22222",
+      "status": true,
+      "created_at": "11/6/2024"
+    },
+    {
+      "student_name": "Yen",
+      "email": "men11@gmail.com",
+      "address": "HP",
+      "phone": "12345",
+      "status": true,
+      "created_at": "11/06/2024",
+      "id": 6
+    }
+  ]
+}
